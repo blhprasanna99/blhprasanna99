@@ -3,7 +3,8 @@
 <!--
 **blhprasanna99/blhprasanna99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Iam Lakshmi hari Prasanna.I'm interested in Computer Science, Machine learning and Data science.I have basic knowledge in machine learning.
+Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
