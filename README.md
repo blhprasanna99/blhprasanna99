@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-*Iam Lakshmi hari Prasanna. I'm interested in Computer Science, Machine learning and Data science. I have some basic knowledge in machine learning.*
+*Iam Lakshmi hari Prasanna. I'm interested in Computer Science, Machine learning and Data science. *
 - 📫 How to reach me: ...My email id: lakshmi.hariprasanna@gmail.com
 <!--
 **blhprasanna99/blhprasanna99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
